@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Hospital_management_system
 =======
-# _Covid19 hospital management_
 
 
 <!-- about us & view patient -->
