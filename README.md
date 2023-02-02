@@ -8,8 +8,7 @@
 - Frontend
 	- HTML5
 	- CSS3
-	- JQuery
-    - Bootstrap4
+   	- Bootstrap4
 - Backend
     - Django framework
 - Database
